@@ -14,7 +14,7 @@
   
 <!-- [![jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsjongy&theme=ayu-mirage&show_icons=true)](https://github.com/itsjongy/github-readme-stats) -->
 
-<h3>💻 projects im currently working on:</h3>
+### 💻 projects im currently working on:
 - Amazan
 
 ## 🚀 technologies i use
