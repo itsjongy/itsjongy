@@ -7,10 +7,14 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22fpb3k67q36jccy5d77xtslq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22fpb3k67q36jccy5d77xtslq&redirect=true)
 
-## 🤠 my github stats:
-[![jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsjongy&theme=ayu-mirage&show_icons=true)](https://github.com/itsjongy/github-readme-stats)
+<h2>🤠 my github stats: </h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsjongy&theme=ayu-mirage&show_icons=true" />
+  </p>
+  
+<!-- [![jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsjongy&theme=ayu-mirage&show_icons=true)](https://github.com/itsjongy/github-readme-stats) -->
 
-### 💻 projects im currently working on:
+<h3>💻 projects im currently working on:</h3>
 - Amazan
 
 ## 🚀 technologies i use
