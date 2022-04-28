@@ -10,7 +10,7 @@ i'm jason li and i'm a software engineer from los angeles, california :) feel fr
 ### 💻 projects im currently working on:
 - Amazan
 
-## technologies i use
+## 🚀 technologies i use
 <details> 
   <summary>
     open to see!
