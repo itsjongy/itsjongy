@@ -10,6 +10,25 @@ i'm jason li and i'm a software engineer from los angeles, california :) feel fr
 ### 💻 projects im currently working on:
 - Amazan
 
+## technologies i use
+<details> 
+  <summary>
+    open to see!
+  </summary>
+  <img src="https://img.shields.io/badge/-Javascript-%233A3B3C?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/-React-%233A3B3C?style=for-the-badge&logo=react">
+  <img src="https://img.shields.io/badge/-Redux-%233A3B3C?style=for-the-badge&logo=redux">
+  <img src="https://img.shields.io/badge/-python-%233A3B3C?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/-PostgreSQL-%233A3B3C?style=for-the-badge&logo=postgresql">
+  <img src="https://img.shields.io/badge/-sequelize-%233A3B3C?style=for-the-badge&logo=sequelize">
+  <img src="https://img.shields.io/badge/-flask-%233A3B3C?style=for-the-badge&logo=flask">
+  <img src="https://img.shields.io/badge/-sqlalchemy-%233A3B3C?style=for-the-badge&logo=sqlalchemy">
+  <img src="https://img.shields.io/badge/-express-%233A3B3C?style=for-the-badge&logo=express">
+  <img src="https://img.shields.io/badge/-node.js-%233A3B3C?style=for-the-badge&logo=nodedotjs">
+  <img src="https://img.shields.io/badge/-css3-%233A3B3C?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/-HTML5-%233A3B3C?style=for-the-badge&logo=html5">
+</details>
+  
 ## 😌 about me:
 - plays games (mainly tft and valorant rn)
 - likes boba... too much...
