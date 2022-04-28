@@ -2,7 +2,7 @@
 
 [![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsjongy&theme=ayu-mirage&show_icons=true)](https://github.com/itsjongy/github-readme-stats)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22fpb3k67q36jccy5d77xtslq&cover_image=true&theme=default&bar_color=9beed2&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=22fpb3k67q36jccy5d77xtslq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22fpb3k67q36jccy5d77xtslq&cover_image=true&theme=natemoo-re&bar_color=9beed2&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=22fpb3k67q36jccy5d77xtslq&redirect=true)
 <!--
 **itsjongy/itsjongy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
