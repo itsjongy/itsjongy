@@ -4,8 +4,6 @@ i'm jason li and i'm a software engineer from los angeles, california :) feel fr
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22fpb3k67q36jccy5d77xtslq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22fpb3k67q36jccy5d77xtslq&redirect=true)
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
-
 ## 🤠 my github stats
 [![jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsjongy&theme=ayu-mirage&show_icons=true)](https://github.com/itsjongy/github-readme-stats)
 
@@ -20,16 +18,9 @@ i'm jason li and i'm a software engineer from los angeles, california :) feel fr
 - plays guitar (not that great)
 
 ## 📫 How to reach me:
+feel free to reach out anytime! im usually up late anyways..
 - [linkedin](https://www.linkedin.com/in/itsjongy/)
 - [instagram](https://www.instagram.com/hehejongy/)
 - discord: jongy#0588
-<!--
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
