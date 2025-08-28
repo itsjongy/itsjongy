@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=2EF7CA&center=true&vCenter=true&lines=hi!;welcome+to+my+github+%3A3" />
 </p>
-
-<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=22fpb3k67q36jccy5d77xtslq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
 <p>
     i'm jason li and i'm a software engineer from los angeles, california :) feel free to explore my repos, vibe with me to some music, or just get to know me better!
 </p>
