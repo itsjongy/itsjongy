@@ -17,7 +17,6 @@
 
 <h3 align="center">💻 projects im currently working on</h3>
 <div align="center">
-<p>⭐ Amazan</p>
 </div>
 
 <h2 align="center">🚀 technologies i use</h2>
@@ -39,10 +38,9 @@
 <h2 align="center">😌 about me</h2>
 <div>
 <li>plays games (mainly tft and valorant rn)</li>
-<li>likes boba... too much...</li>
+<li>likes outdoorsy stuff</li>
 <li>favorite foods: sushi, hotpot, taco</li>
 <li>likes to go on late night drives</li>
-<li>plays guitar (not that great)</li>
 </div>
 
 <h2 align="center">📫 how to reach me</h2>
@@ -50,11 +48,6 @@
 <li>
   <a href="https://www.linkedin.com/in/itsjongy/">linkedin</a>
 </li>
-<li>
-  <a href="https://www.instagram.com/hehejongy/">instagram</a>
-</li>
-<li>discord: jongy#0588</li>
+<li>discord: jongy</li>
 
 <br/>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=itsjongy&left_color=PowderBlue&right_color=LightGreen)
